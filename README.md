@@ -14,5 +14,6 @@ Pico attached to breadboard
 - plug the pico into the pi with the bootsel button pressed. Once copied, the pico will reboot and run app.
 
 `cp main.uf2 /media/rachel/RPI-RP2`
+
 `tinygo monitor`
 
