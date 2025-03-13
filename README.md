@@ -1,4 +1,4 @@
-# Go app to use a magnetic door switch to check if the door is open or closed.
+### Go app to use a magnetic door switch to check if the door is open or closed.
 Pico attached to breadboard
 
 ### To set up new Go app
