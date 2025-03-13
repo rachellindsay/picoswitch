@@ -12,7 +12,7 @@ Pico attached to breadboard
 
 ### Flash/transfer app to the Pico
 - plug the pico into the pi with the bootsel button pressed. Once copied, the pico will reboot and run app.
-`cp main.uf2 /media/rachel/RPI-RP2`
 
+`cp main.uf2 /media/rachel/RPI-RP2`
 `tinygo monitor`
-# picoswitch
+
